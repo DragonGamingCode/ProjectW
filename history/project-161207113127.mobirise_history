@@ -23,7 +23,7 @@
     "publishType": "local",
     "ftpLocation": "ftp://b10_17718682@ftp.byethost10.com:21",
     "publishFtpPath": "/projectw.ga/htdocs/page/",
-    "publishPath": "@PROJECT_PATH@",
+    "publishPath": "file:///C:/Users/Kyle/Documents/projectw",
     "versionFirst": "3.10",
     "uniqCompNum": 15,
     "versionPublish": "3.10"
@@ -434,7 +434,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Project W</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WIKI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FOURMS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Download.html\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">WIKI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FOURMS</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Download.html\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a></li>"
         },
         {
           "_tags": [
